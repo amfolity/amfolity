@@ -3,7 +3,7 @@ My LinkedIn profile: [LinkedIn profile](https://www.linkedin.com/in/anna-mazur-2
 
 Some notes on the projects I was working on: 
 
-[Research project in Reiforcement learning](https://github.com/AnnaNikitaRL/EVA)
+[Advanced Topics in Deep Reiforcement learning](https://github.com/AnnaNikitaRL/EVA)
 
 [Drafts from Kaggle competition "Predicting Molecular Properties"](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)
 <!--
