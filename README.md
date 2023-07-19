@@ -1,11 +1,13 @@
 ### 
-My LinkedIn profile: [LinkedIn profile](https://www.linkedin.com/in/anna-mazur-24291794/)
+[My LinkedIn profile](https://www.linkedin.com/in/anna-mazur-24291794/)
+[My CV](https://github.com/amfolity/amfolity/blob/main/Anna_Mazur_CV.pdf)
 
 Some notes on the projects I was working on: 
 
 [Advanced Topics in Deep Reiforcement learning](https://github.com/AnnaNikitaRL/EVA)
 
 [Drafts from Kaggle competition "Predicting Molecular Properties"](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)
+
 <!--
 **amfolity/amfolity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
