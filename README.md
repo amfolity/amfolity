@@ -9,6 +9,7 @@ Some notes on the projects I was working on:
 
 [Drafts from Kaggle competition "Predicting Molecular Properties"](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)
 
+
 Participated in Anthropic Hackaton:
 
 [Anthropic Hackaton](https://github.com/AnnaNikitaML/claude-sensei)
