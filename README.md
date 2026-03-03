@@ -16,7 +16,7 @@ PhD in Probability Theory & Statistics (Moscow State University) | MA in Economi
 
 ### Earlier Projects
 
-**[Ephemeral Value Adjustment (EVA)](https://github.com/AnnaNikitaRL/EVA)** — Implementation of ["Fast Deep Reinforcement Learning Using Online Adjustments from the Past"](https://arxiv.org/abs/1810.08163) (Hansen et al., 2018). Features Trajectory Central Planning with approximate nearest-neighbor search in learned embedding space, applied to Atari environments. Completed as part of the DeepPavlov [Advanced Topics in Deep Reinforcement Learning](http://deeppavlov.ai/rl_course_2020) course. *(with [Nikita Trukhanov](https://github.com/darthrevenge))*
+**[Ephemeral Value Adjustment (EVA)](https://github.com/AnnaNikitaRL/EVA)** — Implementation of ["Fast Deep Reinforcement Learning Using Online Adjustments from the Past"](https://arxiv.org/abs/1810.08163) (Hansen et al., 2018). Features Trajectory Central Planning with approximate nearest-neighbor search in learned embedding space, applied to Atari environments. Completed as part of the DeepPavlov [Advanced Topics in Deep Reinforcement Learning](http://deeppavlov.ai/rl_course_2020) course.
 
 **[Graph Convolutional Network for Molecular Properties](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)** — Custom graph convolutional recurrent neural network for predicting scalar coupling constants (J-coupling) in the Kaggle ["Predicting Molecular Properties"](https://www.kaggle.com/c/champs-scalar-coupling/overview) competition. Includes bond type inference from atomic coordinates, hybridization detection, and BFS-based path pooling for multi-hop coupling types.
 
