@@ -13,7 +13,7 @@ And some notes on the previous projects I was working on:
 
 Participated in Anthropic Hackathon:
 
-[Anthropic Hackaton](https://github.com/AnnaNikitaML/claude-sensei)
+[Anthropic Hackathon](https://github.com/AnnaNikitaML/claude-sensei)
 
 <!--
 **amfolity/amfolity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
