@@ -1,31 +1,23 @@
-### 
-[My LinkedIn profile](https://www.linkedin.com/in/anna-mazur-24291794/)
+# Anna Mazur
 
-Implementations for LLM scratch:
-https://github.com/amfolity/assignment1-basics
+PhD in Probability Theory & Statistics (Moscow State University) | MSc in Computer Science & ML (Yandex School of Data Analysis)
 
-And some notes on the previous projects I was working on: 
+[LinkedIn](https://www.linkedin.com/in/anna-mazur-24291794/)
 
-[Advanced Topics in Deep Reinforcement learning](https://github.com/AnnaNikitaRL/EVA)
+---
 
-[Drafts from Kaggle competition "Predicting Molecular Properties"](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)
+### Current Work
 
+**[Language Modeling from Scratch](https://github.com/amfolity/assignment1-basics)** — Implementations for Stanford CS336, including BPE tokenization, multi-head self-attention, transformer blocks, and a training pipeline on TinyStories/OpenWebText. Built from first principles in PyTorch.
 
-Participated in Anthropic Hackathon:
+**[Softmax Sharpness & Algorithmic Reasoning](https://github.com/amfolity/interpretability)** — Reimplementation and exploration of ["Softmax is not Enough (for Sharp Size Generalisation)"](https://arxiv.org/abs/2410.01104) (Veličković et al., 2024), investigating fundamental limitations of softmax in approximating sharp functions and the adaptive temperature mechanism. Related experimental work on the [CLRS algorithmic reasoning benchmark](https://github.com/amfolity/clrs).
 
-[Anthropic Hackathon](https://github.com/AnnaNikitaML/claude-sensei)
+**[Sentiment Analysis](https://github.com/amfolity/SentimentAnalysis)** — Exercise in text classification and NLP pipelines.
 
-<!--
-**amfolity/amfolity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Earlier Projects
 
-Here are some ideas to get you started:
+**[Ephemeral Value Adjustment (EVA)](https://github.com/AnnaNikitaRL/EVA)** — Implementation of ["Fast Deep Reinforcement Learning Using Online Adjustments from the Past"](https://arxiv.org/abs/1810.08163) (Hansen et al., 2018). Features Trajectory Central Planning with approximate nearest-neighbor search in learned embedding space, applied to Atari environments. Completed as part of the DeepPavlov [Advanced Topics in Deep Reinforcement Learning](http://deeppavlov.ai/rl_course_2020) course. *(with [Nikita Trukhanov](https://github.com/darthrevenge))*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Graph Convolutional Network for Molecular Properties](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)** — Custom graph convolutional recurrent neural network for predicting scalar coupling constants (J-coupling) in the Kaggle ["Predicting Molecular Properties"](https://www.kaggle.com/c/champs-scalar-coupling/overview) competition. Includes bond type inference from atomic coordinates, hybridization detection, and BFS-based path pooling for multi-hop coupling types.
+
+**[Claude Sensei](https://github.com/AnnaNikitaML/claude-sensei)** — Interactive AI tutoring system built at the Anthropic Hackathon 2023. Uses a state-machine architecture to adapt Claude's pedagogical strategy based on student progress, supporting Socratic dialogue, incremental hints, and solution validation.
