@@ -1,14 +1,17 @@
 ### 
 [My LinkedIn profile](https://www.linkedin.com/in/anna-mazur-24291794/)
 
-Some notes on the projects I was working on: 
+Implementations for LLM scratch:
+https://github.com/amfolity/assignment1-basics
 
-[Advanced Topics in Deep Reiforcement learning](https://github.com/AnnaNikitaRL/EVA)
+And some notes on the previous projects I was working on: 
+
+[Advanced Topics in Deep Reinforcement learning](https://github.com/AnnaNikitaRL/EVA)
 
 [Drafts from Kaggle competition "Predicting Molecular Properties"](https://github.com/AnnaNikitaML/GraphConvolutionalNetwork)
 
 
-Participated in Anthropic Hackaton:
+Participated in Anthropic Hackathon:
 
 [Anthropic Hackaton](https://github.com/AnnaNikitaML/claude-sensei)
 
