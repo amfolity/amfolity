@@ -1,6 +1,6 @@
 # Anna Mazur
 
-PhD in Probability Theory & Statistics (Moscow State University) | MSc in Computer Science & ML (Yandex School of Data Analysis)
+PhD in Probability Theory & Statistics (Moscow State University) | MA in Economics (New Economic Schoool)|MSc in Computer Science & ML (Yandex School of Data Analysis)
 
 [LinkedIn](https://www.linkedin.com/in/anna-mazur-24291794/)
 
